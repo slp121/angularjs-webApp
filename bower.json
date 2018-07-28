@@ -1,0 +1,27 @@
+{
+  "name": "webApp",
+  "description": "angularjs webApp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-ui-router": "ui-router#0.3.1",
+    "angular-cookies": "1.5.8",
+    "angular-validation": "1.4.2",
+    "angular-animate": "1.5.8"
+  },
+  "authors": [
+    "slp121 <13613885046@163.com>"
+  ]
+}
